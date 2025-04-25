@@ -1,0 +1,19 @@
+[
+  {
+    "company": "Tribunal de Justiça do Estado de Goiás",
+    "description": "Residente em TI no TJGO, com foco no desenvolvimento e manutenção de portais institucionais, garantindo compatibilidade entre dispositivos e aderência a critérios de acessibilidade digital.",
+    "startDate": "fevereiro/2025"
+  },
+  {
+    "company": "Studio Sol",
+    "description": "Desenvolvimento e manutenção dos produtos Palco MP3 e Cifra Club, com foco em qualidade, performance e evolução. Criação de testes unitários, participação ativa em code reviews, pair programming e rituais ágeis. Contribuição para uma biblioteca de componentes alinhada ao design system, priorização de métricas como Core Web Vitals e acessibilidade para produtos mais rápidos e inclusivos.",
+    "startDate": "outubro/2022",
+    "endDate": "setembro/2024"
+  },
+  {
+    "company": "Arko Advice",
+    "description": "Desenvolvimento de aplicativo mobile com React Native e TypeScript, oferecendo experiência unificada entre Android e iOS. Implementação de Redux para organização e eficiência no fluxo de dados. Integração com Firebase Cloud Messaging para envio de relatórios personalizados, ampliando o engajamento dos usuários.",
+    "startDate": "fevereiro/2022",
+    "endDate": "outubro/2022"
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "institution": "Instituto Federal Goiano",
+    "course": "Bacharelado em Sistemas de Informação",
+    "startYear": "2018",
+    "endYear": "2023"
+  },
+  {
+    "institution": "PUC Minas",
+    "course": "Pós Lato-Sensu em Engenharia de Software",
+    "startYear": "2024",
+    "endYear": "2024"
+  },
+  {
+    "institution": "Universidade Federal do Goiás",
+    "course": "Pós Lato-Sensu em Tecnologia da Informação",
+    "startYear": "2025"
+  }
+]

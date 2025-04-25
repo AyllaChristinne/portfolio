@@ -1,0 +1,50 @@
+[
+  {
+    "name": "React",
+    "icon": "https://img.icons8.com/?size=100&id=asWSSTBrDlTW&format=png&color=000000"
+  },
+  {
+    "name": "Typescript",
+    "icon": "https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000"
+  },
+  {
+    "name": "Angular",
+    "icon": "https://js.devexpress.com/Content/Images/Frameworks/Angular.png"
+  },
+  {
+    "name": "Javascript",
+    "icon": "https://img.icons8.com/?size=512&id=108784&format=png"
+  },
+  {
+    "name": "TailwindCSS",
+    "icon": "https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000"
+  },
+  {
+    "name": "SASS",
+    "icon": "https://img.icons8.com/?size=100&id=QBqFNfPPB2Kx&format=png&color=000000"
+  },
+  {
+    "name": "Storybook",
+    "icon": "https://www.digitalpolygon.com/_next/image?url=https%3A%2F%2Fcms.digitalpolygon.com%2Fsites%2Fdefault%2Ffiles%2F2022-07%2Fstorybook-logo.png&w=384&q=75"
+  },
+  {
+    "name": "Jest",
+    "icon": "https://img.icons8.com/?size=100&id=bp24DwGXJDyT&format=png&color=000000"
+  },
+  {
+    "name": "Vite",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Vitejs-logo.svg/1200px-Vitejs-logo.svg.png"
+  },
+  {
+    "name": "Express.js",
+    "icon": "https://mvpdevelopmentteam.com/wp-content/uploads/2024/02/vector-2-3.png"
+  },
+  {
+    "name": "Git",
+    "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+  },
+  {
+    "name": "Conventional Commits",
+    "icon": "https://vivaxy.gallerycdn.vsassets.io/extensions/vivaxy/vscode-conventional-commits/1.26.0/1724730331483/Microsoft.VisualStudio.Services.Icons.Default"
+  }
+]

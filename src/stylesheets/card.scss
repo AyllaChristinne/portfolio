@@ -1,0 +1,17 @@
+@layer components {
+  .stack-card {
+    @apply bg-backgroundCard flex h-auto min-h-[110px] w-28 flex-col items-center justify-center gap-2 rounded-md p-2;
+
+    .stack-imgContainer {
+      @apply bg-background mb-auto flex h-[68px] w-full shrink-0 items-center justify-center rounded-md;
+    }
+
+    .stack-logo {
+      @apply size-8 object-contain;
+    }
+
+    .stack-text {
+      @apply text-textPrimary mb-auto text-center text-sm;
+    }
+  }
+}

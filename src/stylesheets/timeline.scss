@@ -1,0 +1,21 @@
+.timeline {
+  @apply relative flex flex-col items-baseline justify-center space-y-6 lg:items-center;
+
+  &::before {
+    @apply bg-textSecondary absolute block h-full min-h-[88px] w-1 rounded-xs py-11 content-[''];
+  }
+
+  .exp:nth-child(odd) {
+    @apply relative self-baseline bg-transparent pl-6 text-left lg:max-w-[50%] lg:pr-6 lg:text-right;
+    &::after {
+      @apply bg-textSecondary border-background absolute top-[calc(50%-(--spacing(3)))] left-[-10px] block h-6 w-6 rounded-full border-[4px] content-[''] lg:right-[-12px] lg:left-auto;
+    }
+  }
+
+  .exp:nth-child(even) {
+    @apply relative self-baseline bg-transparent pl-6 text-left lg:max-w-[50%] lg:self-end;
+    &::before {
+      @apply bg-textSecondary border-background absolute top-[calc(50%-(--spacing(3)))] left-[-10px] block h-6 w-6 rounded-full border-[4px] content-[''] lg:left-[-12px];
+    }
+  }
+}

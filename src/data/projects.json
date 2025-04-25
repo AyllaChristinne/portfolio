@@ -1,0 +1,39 @@
+[
+  {
+    "title": "REST Countries API",
+    "description": "Aplicação web que consome a REST Countries API, permitindo aos usuários explorar informações sobre países de forma interativa e com suporte a temas claro e escuro",
+    "img": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/yhq5ihanseyinzwblaw1.jpg",
+    "stacks": ["React", "Typescript", "SASS", "Jest"],
+    "githubLink": "https://github.com/AyllaChristinne/rest-countries",
+    "liveSiteLink": "https://ayllachristinne.github.io/rest-countries/"
+  },
+  {
+    "title": "Todo App",
+    "description": "TODO App que permite aos usuários adicionar, concluir, deletar, reordenar e filtrar tarefas, com suporte a temas claro e escuro",
+    "img": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_700/Challenges/llcq9eiv3ney5tkxgdtu.jpg",
+    "stacks": ["Angular", "Typescript", "SASS"],
+    "githubLink": "https://github.com/AyllaChristinne/todo-app",
+    "liveSiteLink": "https://ayllachristinne.github.io/todo-app/"
+  },
+  {
+    "title": "IP Address Tracker",
+    "description": "Aplicação Web que utiliza duas APIs para criar um IP Tracker. O usuário pode pesquisar qualquer IP ou domínio válido e visualizar as informações associadas junto à sua posição geográfica.",
+    "img": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/zfgce1seaqfllpuktpai.jpg",
+    "stacks": ["Angular","Typescript", "SASS"],
+    "githubLink": "https://github.com/AyllaChristinne/IP-address-tracker",
+    "liveSiteLink": "https://ayllachristinne.github.io/IP-address-tracker/"
+  },
+  {
+    "title": "Tip Calculator",
+    "description": "Aplicação de calculadora de gorjetas que permite aos usuários inserir o valor da conta, selecionar a porcentagem da gorjeta e dividir o total entre múltiplas pessoas",
+    "img": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/hxkpctp6cd1meeytfdl2.jpg",
+    "stacks": ["Javascript"],
+    "githubLink": "https://github.com/AyllaChristinne/tip-calculator"
+  },
+  {
+    "title": "Kanban Task Management",
+    "description": "Aplicação Kanban com frontend e backend completos, permitindo criar, editar e organizar quadros, colunas e tarefas. O projeto inclui autenticação de usuários, persistência de dados e uma interface responsiva e interativa.",
+    "stacks": ["Express.js", "React", "Typescript"],
+    "img": "https://res.cloudinary.com/dz209s6jk/image/upload/f_auto,q_auto,w_475/Challenges/o1mwa6sv5w41z8bj3gfa.jpg"
+  }
+]
